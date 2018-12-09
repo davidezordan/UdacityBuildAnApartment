@@ -4,9 +4,9 @@
 # Introduction 
 This VR project permits to explore virtually an apartment and to activate the spinning globe using the Cardboard button or headset controller.
 
-[Screenshot](Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
-[Screenshot](Screenshot-1.jpg)
+![Screenshot](Screenshot-1.jpg)
 
 The original project has been extended with the following functionalities:
 - added a spinning globe actioned by the Cardboard button or headet controller.
