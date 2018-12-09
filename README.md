@@ -1,12 +1,12 @@
-#Udacity VR Foundations Nanodegree
-##Build an Apartment - Davide Zordan
+# Udacity VR Foundations Nanodegree
+## Build an Apartment - Davide Zordan
 
 # Introduction 
 This VR project permits to explore virtually an apartment and to activate the spinning globe using the Cardboard button or headset controller.
 
-![Screenshot](Screenshot.jpg)
+[Screenshot](Screenshot.jpg)
 
-![Screenshot](Screenshot-1.jpg)
+[Screenshot](Screenshot-1.jpg)
 
 The original project has been extended with the following functionalities:
 - added a spinning globe actioned by the Cardboard button or headet controller.
@@ -20,7 +20,7 @@ The original project has been extended with the following functionalities:
 It's possible to test the project using Unity. If Unity is not available, an apk has been provided and can be deployed directly to an Android device.
 The project has been tested using both Google Cardboard and Oculus Go but the provided apk is targeting only Google Cardboard.
 
-####Using Unity
+#### Using Unity
 Scenes required (the order should be respected): 
 - Build an Apartment\Assets\UdacityVR\Scenes\Loading.Unity
 - Build an Apartment\Assets\UdacityVR\Scenes\Build an Apartment.unity
@@ -34,7 +34,7 @@ Steps:
 - Use the menu “File->Build settings->Android->Build and Run” to run it on an Google Cardboard device. Replace the target if another platform (like Oculus Go) is required
 - Explore the scene in the headset
 
-####Deploy to the device
+#### Deploy to the device
 If needed, a build targeting Google Cardboard has already been provided compressed into the archive "Build.zip" and can be deployed to a device using the following command from an adb command prompt:
 
 adb install “BuildAnApartment.apk”
