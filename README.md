@@ -1,8 +1,7 @@
-# Udacity VR Foundations Nanodegree
-## Build an Apartment - Davide Zordan
+## Build an Apartment
 
 # Introduction 
-This VR project permits to explore virtually an apartment and to activate the spinning globe using the Cardboard button or headset controller.
+Explore an apartment in Virtual Reality using mobile devices.
 
 ![Screenshot](screenshot.jpg)
 
